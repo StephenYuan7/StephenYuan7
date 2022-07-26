@@ -2,7 +2,7 @@
 - 👀 I’m interested in basketball,code,acg
 - 🌱 I’m currently learning big data,computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 2583242079@qq.com
+- 📫 How to reach me yuanyehao@stu.pku.edu.cn
 
 <!---
 StephenYuan7/StephenYuan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
